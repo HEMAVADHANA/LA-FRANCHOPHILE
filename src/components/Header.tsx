@@ -20,10 +20,11 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
-              src="public/images/logo.png" 
-              alt="LA FRANCHOPHILE Logo" 
-              className="h-12 w-auto"
-            />
+  src="/images/logo.png" 
+  alt="LA FRANCHOPHILE Logo" 
+  className="h-12 w-auto"
+/>
+
             <div>
               <p className="text-xs text-muted-foreground">Fluent Futures Begin Here</p>
             </div>
